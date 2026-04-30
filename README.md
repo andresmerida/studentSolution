@@ -1,4 +1,4 @@
-## **Java practice studentSolution**
+# **Java practice studentSolution**
 
 ## What you'll need
   - A favorite IDE. I used Intellij IDEA
